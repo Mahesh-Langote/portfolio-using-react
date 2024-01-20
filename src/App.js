@@ -10,6 +10,7 @@ import Project from './components/project';
 import Technicals from './components/technical';
 import Certification from './components/certification';
 import Contact from './components/contact';
+import Footer from './components/footer';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
        <Technicals />
        <Certification />
        <Contact />
+       <Footer />
 
     </body>
    </>
